@@ -1,0 +1,25 @@
+{
+  "name": "bitbucket-wercker-status",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/itsmepetrov/bitbucket-wercker-status.git"
+  },
+  "author": "Anton Petrov <petrov.aap@gmail.com> (http://github.com/itsmepetrov)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itsmepetrov/bitbucket-wercker-status/issues"
+  },
+  "homepage": "https://github.com/itsmepetrov/bitbucket-wercker-status",
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "express": "^4.13.3",
+    "request": "^2.61.0",
+    "selectn": "^0.9.6"
+  }
+}
